@@ -13,7 +13,7 @@ You can install the development version of readihme like so:
 
 ``` r
 # install.packages("pak")
-pak::pkg_install("yourusername/readihme")
+pak::pkg_install("bfiripis/readihme")
 ```
 
 ## Authentication
@@ -24,7 +24,7 @@ pak::pkg_install("yourusername/readihme")
 
 1. Visit [https://api.healthdata.org/sdg/v1/](https://api.healthdata.org/sdg/v1/)
 2. Sign up or log in to get your API key
-3. Copy your API key (it will look like: `xq541ghh07ihok3tbtff4g4c3p4z7a52`)
+3. Copy your API key (it will look like: `xq541ghh07ihok3tbtff4g6c3p4z7a99`)
 
 ### Setting Your API Key
 
