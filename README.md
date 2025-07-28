@@ -24,7 +24,7 @@ pak::pkg_install("bfiripis/readihme")
 
 1. Visit [https://api.healthdata.org/sdg/v1/](https://api.healthdata.org/sdg/v1/)
 2. Sign up or log in to get your API key
-3. Copy your API key (it will look like: `xq541ghh07ihok3tbtff4g6c3p4z7a99`)
+3. Copy your API key (it will look like: `xq541ghh07ihok3tbtff4g4c3p4z7a52`)
 
 ### Setting Your API Key
 
