@@ -3,7 +3,7 @@
 
 ## usethis namespace: start
 #' @importFrom dplyr bind_rows filter mutate select arrange left_join
-#' @importFrom digest digest
+#' @importFrom rlang hash
 #' @importFrom glue glue
 #' @importFrom httr2 request req_url_query req_perform resp_check_status resp_body_json req_headers
 #' @importFrom janitor clean_names

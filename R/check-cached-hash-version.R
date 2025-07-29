@@ -38,7 +38,7 @@ get_version_hash <- function() {
       target_count = target_count,
       date = Sys.Date()
     )
-    digest::digest(metadata, algo = "md5")
+    rlang::hash()
   }, error = function(e) {
     warning("Could not generate version hash, using date: ", e$message)
     digest::digest(Sys.Date(), algo = "md5")
